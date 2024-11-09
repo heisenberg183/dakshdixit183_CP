@@ -1,0 +1,14 @@
+Sample Problems:-
+1. Find the no of boolean strings with no consecutive 1's
+2. Find no of ways to build a wall of size 2xN with brick size of 2x1 and 1x2
+
+Calculating Fib
+1. Matrix Exp
+2. Best Way -> https://codeforces.com/blog/entry/14516   (Use Map<int>)
+
+Interesting Properties
+1. Zeckendorf’s Theorem 
+Every positive integer can be written uniquely as a sum of distinct non-neighbouring Fibonacci numbers
+30 = 21 8 1 
+
+2.Pisano period 
