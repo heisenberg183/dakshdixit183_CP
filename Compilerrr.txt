@@ -21,7 +21,7 @@
             "macFrameworkPath": [
                 "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
             ],
-            "compilerPath": "/opt/homebrew/Cellar/gcc/14.1.0_1/bin/g++-14",
+            "compilerPath": "/opt/homebrew/bin/g++-14",
             "cStandard": "${default}",
             "cppStandard": "${default}",
             "intelliSenseMode": "macos-clang-arm64",
